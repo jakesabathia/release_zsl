@@ -10,8 +10,8 @@ Semantics-Preserving Locality Embedding for Zero-Shot Learning
 Setup:
 ------
 - Prepare Data
-	- Dowload the data used in this paper at <http://jakesabathia.github.io>
-    - Put the data in **/Data**
+	- Dowload data used in this paper at <http://jakesabathia.github.io>
+    - Put data in **/Data**
     - Create */Param* and */Result*
 
 - Edit **Demo.m** with desired experiment
