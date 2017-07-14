@@ -12,7 +12,7 @@ Setup:
 - Prepare Data
 	- Dowload data used in this paper at <http://jakesabathia.github.io>
     - Put data in **/Data**
-    - Create */Param* and */Result*
+    - Create */Param* and */result*
 
 - Edit **Demo.m** with desired experiment
     - Try different dataset or semantic vector if you want
@@ -20,4 +20,4 @@ Setup:
 Run:
 -----
 - Directly run **Demo.m** or **Demo_SUN.m**
-- The results will be saved in */Result*
+- The results will be saved in */result*
