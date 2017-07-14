@@ -14,10 +14,10 @@ Setup:
     - Put data in **/Data**
     - Create */Param* and */result*
 
-- Edit **Demo.m** with desired experiment
+- Edit **/code/Demo.m** with desired experiment
     - Try different dataset or semantic vector if you want
 
 Run:
 -----
-- Directly run **Demo.m** or **Demo_SUN.m**
+- Directly run **/code/Demo.m** or **/code/Demo_SUN.m**
 - The results will be saved in */result*
