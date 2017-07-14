@@ -20,4 +20,4 @@ Setup:
 Run:
 -----
 - Directly run **Demo.m** or **Demo_SUN.m**
-- The results will be save in */Result*
+- The results will be saved in */Result*
