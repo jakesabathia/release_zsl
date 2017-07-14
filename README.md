@@ -4,7 +4,7 @@ Semantics-Preserving Locality Embedding for Zero-Shot Learning
 
 #####Package with code and demo usage for the paper:</br>
 #####"Semantics-Preserving Locality Embedding for Zero-Shot Learning"</br>
-#####    Shih-Yen Tao, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)</br>
+#####    Shih-Yen Tao, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang/br>
 #####    British Machine Vision Conference (BMVC) 2017.
 
 Setup:
