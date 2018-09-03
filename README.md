@@ -12,7 +12,7 @@ Predict Deep Latent Classifier for Unseen Category
 ------
 
 
-![701](https://user-images.githubusercontent.com/20837727/44968545-89bff480-af16-11e8-96d7-6fa3749c74e9.png)
+![701](https://user-images.githubusercontent.com/20837727/44968671-2b474600-af17-11e8-8c3b-968cd91c0d9c.png)
 
 - This is the project for **CMU 10701 (PhD level Introduction to Machine Learning)**. I designed a deep learning algorithm which can predict the visual classifiers for unseen categories.
 - Prepare Data
