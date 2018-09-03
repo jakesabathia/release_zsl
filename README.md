@@ -34,8 +34,8 @@ Semantics-Preserving Locality Embedding for Zero-Shot Learning:
 - Prepare Data
 	- Dowload data used in this paper at <https://drive.google.com/open?id=0B1QmFw8l-GM2V0ZyVXBMYUxrZ2M>
     - Put data in **/BMVC/Data**
-    - Create */BMVC/Param* and */BMVC/result*
+    - Create **/BMVC/Param** and **/BMVC/result**
 - Run Demo
-	- Edit **/BMVC/code/Demo.m** with desired experiment. You are welcome to try different dataset or semantic vectors
-	- Directly run **/BMVC/code/Demo.m** or **/BMVC/code/Demo_SUN.m**
-	- The results will be saved in */BMVC/result*
+	- Edit **/BMVC/Demo.m** with desired experiment. You are welcome to try different dataset or semantic vectors
+	- Directly run **/BMVC/Demo.m** or **/BMVC/Demo_SUN.m**
+	- The results will be saved in **/BMVC/result**
