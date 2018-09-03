@@ -10,6 +10,9 @@ presented in the training stage. In particular, I have come up with one Deep Lea
 
 Predict Deep Latent Classifier for Unseen Category
 ------
+
+![Image description](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjq1pOXg57dAhXxg-AKHb7GB5EQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSfLV8hD7zX4&psig=AOvVaw0LS1OJEc1Bv5tw1DH43fbt&ust=1536036276690998)
+
 - This is the project for **CMU 10701 (PhD level Introduction to Machine Learning)**. I designed a deep learning algorithm which can predict the visual classifiers for unseen categories.
 - Prepare Data
 	- Download data at <https://drive.google.com/drive/folders/1Fqs7uBFI-BlRrcQXxIDvs0hCpfFoxXew?usp=sharing>
