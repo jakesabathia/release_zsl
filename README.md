@@ -25,7 +25,10 @@ Predict Deep Latent Classifier for Unseen Category
 	- You can choose the dataset to work on in the code (AWA, CUB, DOG). Moreover, you are welcome to play with different semantic vectors (attribute, word2vec, glove, wordnet).
 - For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10701.pdf>
 
-Semantics-Preserving Locality Embedding for Zero-Shot Learning:
+Semantics-Preserving Locality Embedding for Zero-Shot Learning
+------
+
+
 
 - This is the package with code and demo usage for the paper:</br>
 - **Semantics-Preserving Locality Embedding for Zero-Shot Learning**</br>
