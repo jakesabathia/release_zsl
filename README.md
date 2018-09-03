@@ -23,7 +23,7 @@ Predict Deep Latent Classifier for Unseen Category
 - Run demo code
 	- By directly running **/DEEP/Demo.py** should start training the network
 	- You can choose the dataset to work on in the code (AWA, CUB, DOGs). Moreover, you are welcome to play with different semantic vectors (attribute, word2vec, glove, wordnet).
-	- THe trained weights will be save in **/DEEP/weight**
+	- The trained weights will be save in **/DEEP/weight**
 - For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10701.pdf>
 
 Semantics-Preserving Locality Embedding for Zero-Shot Learning
