@@ -28,7 +28,7 @@ Predict Deep Latent Classifier for Unseen Category
 Semantics-Preserving Locality Embedding for Zero-Shot Learning
 ------
 
-
+![bmvc](https://user-images.githubusercontent.com/20837727/44968968-d3114380-af18-11e8-9a32-340f57ec31bf.png)
 
 - This is the package with code and demo usage for the paper:</br>
 - **Semantics-Preserving Locality Embedding for Zero-Shot Learning**</br>
