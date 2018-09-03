@@ -25,23 +25,17 @@ Predict Deep Latent Classifier for Unseen Category
 	- You can choose the dataset to work on in the code (AWA, CUB, DOG). Moreover, you are welcome to play with different semantic vectors (attribute, word2vec, glove, wordnet).
 - For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10701.pdf>
 
+Semantics-Preserving Locality Embedding for Zero-Shot Learning:
 
-#####Package with code and demo usage for the paper:</br>
-#####"Semantics-Preserving Locality Embedding for Zero-Shot Learning"</br>
-#####    Shih-Yen Tao, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang</br>
-#####    British Machine Vision Conference (BMVC) 2017.
-
-Setup:
-------
+- This is the package with code and demo usage for the paper:</br>
+- **Semantics-Preserving Locality Embedding for Zero-Shot Learning**</br>
+- Author: Shih-Yen Tao, Yi-Ren Yeh, Yao-Hung Hubert Tsai and Yu-Chiang Frank Wang (*equal contribution)
+- Published in British Machine Vision Conference (BMVC) 2017
 - Prepare Data
-	- Dowload data used in this paper at <http://jakesabathia.github.io>
-    - Put data in **/Data**
-    - Create */Param* and */result*
-
-- Edit **/code/Demo.m** with desired experiment
-    - Try different dataset or semantic vector if you want
-
-Run:
------
-- Directly run **/code/Demo.m** or **/code/Demo_SUN.m**
-- The results will be saved in */result*
+	- Dowload data used in this paper at <https://drive.google.com/open?id=0B1QmFw8l-GM2V0ZyVXBMYUxrZ2M>
+    - Put data in **/BMVC/Data**
+    - Create */BMVC/Param* and */BMVC/result*
+- Run Demo
+	- Edit **/BMVC/code/Demo.m** with desired experiment. You are welcome to try different dataset or semantic vectors
+	- Directly run **/BMVC/code/Demo.m** or **/BMVC/code/Demo_SUN.m**
+	- The results will be saved in */BMVC/result*
