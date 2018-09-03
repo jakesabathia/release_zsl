@@ -1,6 +1,6 @@
 Machine Learning for Zero-Shot classification
 =========================
-Author: Shih-Yen Tao <shihyen@andrew.cmu.edu> </br>
+Author: Shih-Yen Tao <shihyent@andrew.cmu.edu> </br>
 =========================
 
 This page includes my approaches toward Zero-Shot classification, that is to recognize classes which are not
@@ -21,7 +21,7 @@ Predict Deep Latent Classifier for Unseen Category
 -Run demo code
 	- By directly running **/DEEP/Demo.py** should start training the network
 	- You can choose the dataset to work on in the code (AWA, CUB, DOG). Moreover, you are welcome to play with different semantic vectors (attribute, word2vec, glove, wordnet).
-	
+
 -For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10701.pdf>
 
 
