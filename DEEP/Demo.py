@@ -3,9 +3,6 @@ import numpy as np
 import scipy.io as sio
 import sys
 import math
-import matplotlib.pyplot as plt
-from sklearn.manifold import TSNE
-import matplotlib
 
 class model():
 	def __init__(self,n_feature,n_semantic,n_latent):
@@ -39,7 +36,7 @@ if __name__ == '__main__':
 	dataset = 'AWA' #AWA, CUB, DOG
 	semantic = 'cont' # cont, word2vec, glove, wordnet
 	Data_name = 'data_'+dataset
-	s_Data_name = dataset+'_s'
+	s_Data_name = dataset+'_S'
 	raw_data = sio.loadmat(Data_path+Data_name)
 	raw_s_data = sio.loadmat(Data_path+s_Data_name)
 	coco = raw_data['train_X']
