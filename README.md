@@ -14,14 +14,11 @@ Predict Deep Latent Classifier for Unseen Category
 - Prepare Data
 	- Download data at <https://drive.google.com/drive/folders/1Fqs7uBFI-BlRrcQXxIDvs0hCpfFoxXew?usp=sharing>
 	- Put data under **/DEEP/Data/**
-
 - Install Tensorflow
 	- Please follow the instruction on <https://www.tensorflow.org/> to install Tensorflow.
-
 - Run demo code
 	- By directly running **/DEEP/Demo.py** should start training the network
 	- You can choose the dataset to work on in the code (AWA, CUB, DOG). Moreover, you are welcome to play with different semantic vectors (attribute, word2vec, glove, wordnet).
-
 - For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10701.pdf>
 
 
